@@ -13,7 +13,7 @@
     <body>
     <div class="w3-top " >
     <div class="w3-bar w3-win8-violet w3-wide w3-padding w3-card">
-        <div class="w3-display-position w3-padding" style="top:-10px;left:250px;">
+        <div class="w3-display-position w3-padding" style="top:-10px;left:230px;">
             <h3><img src="../asset/earth.ico" style="height:24px;width:24px;"> Sistem Informasi Geografis Banjir Samarinda</h3>
         </div>
         <div class="w3-right w3-hide-small">                  
@@ -22,8 +22,8 @@
     </div>
     </div>
     <!-- Sidebar -->
-    <div class="w3-sidebar w3-2020-navy-blazer w3-bar-block" style="width:13%">
-    <a class="w3-bar-item w3-button w3-hover-white" href="admin.php" style="font-size: 20px; border-bottom:3px solid grey; font-family: 'Open Sans' , sans-serif; text-align:center;  "><b>Admin SIG</b></a>
+    <div class="w3-sidebar w3-2020-navy-blazer w3-bar-block" style="width:14%">
+    <a class="w3-bar-item w3-button w3-hover-white" href="admin.php" style="font-size: 20px; border-bottom:3px solid grey; font-family: 'Open Sans' , sans-serif; text-align:center; height: 56px;  "><b>Admin SIG</b></a>
     <p style="padding-left: 20px; font-size:12px;"> MAIN MENU</p>
     <a class="w3-bar-item w3-button w3-hover-white" href="transformasiadmin.php"><img src="../asset/setting.png" style="height:12px;width:12px; "> Tranformasi Data</a>
     <a class="w3-bar-item w3-button w3-hover-white" href="clusteradmin.php"> <img src="../asset/clstr.png" style="height:12px;width:12px;"> Cluster</a>
