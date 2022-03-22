@@ -6,6 +6,9 @@
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-signal.css">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-win8.css">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-2020.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
     <body>
     <div class="w3-top " >
@@ -20,8 +23,9 @@
     </div>
     <!-- Sidebar -->
     <div class="w3-sidebar w3-2020-navy-blazer w3-bar-block" style="width:13%">
-    <a class="w3-bar-item w3-button w3-hover-white" href="admin.php" style="font-size: 25px; border-bottom:3px solid grey; "><b>Admin SIG</b></a>
-    <a class="w3-bar-item w3-button w3-hover-white" href="transformasiadmin.php"><img src="../asset/setting.png" style="height:12px;width:12px;"> Tranformasi Data</a>
+    <a class="w3-bar-item w3-button w3-hover-white" href="admin.php" style="font-size: 20px; border-bottom:3px solid grey; font-family: 'Open Sans' , sans-serif; text-align:center;  "><b>Admin SIG</b></a>
+    <p style="padding-left: 20px; font-size:12px;"> MAIN MENU</p>
+    <a class="w3-bar-item w3-button w3-hover-white" href="transformasiadmin.php"><img src="../asset/setting.png" style="height:12px;width:12px; "> Tranformasi Data</a>
     <a class="w3-bar-item w3-button w3-hover-white" href="clusteradmin.php"> <img src="../asset/clstr.png" style="height:12px;width:12px;"> Cluster</a>
     <a class="w3-bar-item w3-button w3-hover-white" href="atributadmin.php"> <img src="../asset/attr.png" style="height:12px;width:12px;"> Atribut</a>
     </div>

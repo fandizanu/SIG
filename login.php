@@ -8,6 +8,9 @@
     <title>Login</title>
     <link rel="stylesheet" href="style/login.css">
     <link href="asset/bumi.png" rel="icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@505&display=swap" rel="stylesheet">
 </head>
 <body>   
     <div class="wrapper">
@@ -24,14 +27,12 @@
                 <input type="password" name="password" required>
                 
             </div>
+            
             <div class="field">
                 <input type="submit" value="Login">                
             </div>           
             
-            <div class="field">
-                <a href="index.php">Kembali</a>                   
-            </div> 
-           
+            
         </form>
     
     </div>
