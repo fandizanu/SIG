@@ -1,0 +1,10 @@
+img {
+  width: 400px;
+  height: 600px;
+}
+div.content {
+  text-align: center;
+}
+div.content h3 {
+  text-align: start;
+}
