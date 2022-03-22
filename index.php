@@ -31,7 +31,7 @@ include('config.php');
 
 
 <!-- googlemap -->
-<h2 style="padding-top: 55px; text-align:center; font-family:sans-serif; width:100%;  ">Map Kota Samarinda</h2>
+<h2 style="padding-top: 55px; text-align:center; font-family:Verdana, Geneva, Tahoma, sans-serif; width:100%;  ">Map Kota Samarinda</h2>
 <div class="w3-content w3-padding" style="max-width:1440px;">
 <div class="w3-container w3-padding-32 w3-white" id="maps">  
   <div id="map" style="width: 100%; height:600px;  "></div>  

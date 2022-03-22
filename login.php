@@ -20,7 +20,8 @@
         <form method="POST" action = aksilogin.php>
             <div class="field">
                 <label">Masukkan Username</label>
-                <input type="text" name="username"required>                
+                <input type="text" name="username"required>      
+                
             </div>
             <div class="field">
                 <label">Masukkan password</label>

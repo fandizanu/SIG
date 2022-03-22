@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="w3-top " >
-  <div class="w3-bar w3-light-blue w3-wide w3-padding w3-card">
+  <div class="w3-bar w3-wide w3-padding w3-card" style="background-image:url('../asset/bg.jpg')">
     <a href="../index.php" class="w3-bar-item w3-button w3-hover-white"><img src="../asset/earth.ico" style="height:24px;width:24px;"><b> Sistem Informasi Geografis Samarinda</b> </a>    
     <div class="w3-right w3-hide-small">
       <a href="transformasi.php" class="w3-bar-item w3-button w3-hover-white">Transformasi Data</a>

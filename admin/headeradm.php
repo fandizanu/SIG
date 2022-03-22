@@ -11,7 +11,7 @@
 </head>
     <body>
     <div class="w3-top " >
-    <div class="w3-bar w3-light-blue w3-wide w3-padding w3-card">
+    <div class="w3-bar w3-wide w3-padding w3-card" style="background-image: url('../asset/bg.jpg');">
         <div class="w3-display-position w3-padding" style="top:-10px;left:240px;">
             <h3><img src="../asset/earth.ico" style="height:24px;width:24px;"> Sistem Informasi Geografis Banjir Samarinda</h3>
         </div>
