@@ -8,3 +8,7 @@ div.content {
 div.content h3 {
   text-align: start;
 }
+div.content {
+  background-image: url("asset/bg.jpg");
+  background-color: #cccccc;
+}

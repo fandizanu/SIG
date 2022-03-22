@@ -9,7 +9,6 @@
 <body>
     <script type="text/javascript" src="../asset/js/bootstrap.min.css"> </script>
     <?php include("headeradm.php");?>
-
     <div style="margin-left:20%">        
         <div class="w3-container">   
             <h2 style=margin-top:4%;>Cluster</h2>
